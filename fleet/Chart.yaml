@@ -1,5 +1,6 @@
 name: fleet
 version: 2.0.0-rc3
+apiVersion: v1
 appVersion: 2.0.0-rc3
 description: Kolide Fleet is a state of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Kolide delivers fast answers to big questions. To learn more about the Kolide Fleet, visit https://kolide.com/fleet.
 keywords:
